@@ -6,7 +6,7 @@ const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-      Encontre uma oferta de cartão melhor <br className="hidden sm:block" /> em poucos passos.
+      Encontre uma oferta de cartão melhor <br className="hidden sm:block" /> com apenas um clique.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis

@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { people01, people02, people03, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
 
 export const navLinks = [
   {
@@ -157,24 +157,24 @@ export const footerLinks = [
 export const socialMedia = [
   {
     id: "social-media-1",
-    icon: instagram,
-    link: "https://www.instagram.com/",
+    icon: twitter,
+    link: "https://www.twitter.com/mayconpachecoof/",
   },
   {
     id: "social-media-2",
-    icon: facebook,
-    link: "https://www.facebook.com/",
-  },
-  {
-    id: "social-media-3",
-    icon: twitter,
-    link: "https://www.twitter.com/",
-  },
-  {
-    id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/in/mayconpachecooficial/",
   },
+  // {
+  //   id: "social-media-3",
+  //   icon: facebook,
+  //   link: "https://www.facebook.com/",
+  // },
+  // {
+  //   id: "social-media-4",
+  //   icon: instagram,
+  //   link: "https://www.instagram.com/",
+  // },
 ];
 
 export const clients = [

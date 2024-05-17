@@ -7,7 +7,7 @@ const CTA = () => (
   >
     <div className="flex flex-col flex-1">
       <h2 className={styles.heading2}>
-        Vamos experimentar nosso serviço agora!
+        Vamos experimentar os nossos serviços agora!
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Tudo que você precisa para aceitar pagamentos com cartão e expandir seus
