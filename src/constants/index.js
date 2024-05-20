@@ -140,7 +140,7 @@ export const footerLinks = [
     ],
   },
   {
-    title: "Parceiros",
+    title: "Partner",
     links: [
       {
         name: "Nossos Parceiros",
