@@ -1,4 +1,4 @@
-import { people01, people02, people03, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { people01, people02, people03, linkedin, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
 
 export const navLinks = [
   {
@@ -155,11 +155,11 @@ export const footerLinks = [
 ];
 
 export const socialMedia = [
-  {
-    id: "social-media-1",
-    icon: twitter,
-    link: "https://www.twitter.com/mayconpachecoof/",
-  },
+  // {
+  //   id: "social-media-1",
+  //   icon: twitter,
+  //   link: "https://www.twitter.com/mayconpachecoof/",
+  // },
   {
     id: "social-media-2",
     icon: linkedin,
