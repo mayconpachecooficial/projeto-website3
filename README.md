@@ -1,6 +1,6 @@
 ✔✔TECNOLOGIAS UTILIZADAS✔✔
 
-Vite | React.
+React + Vite.
 
 
 ✔✔DEPLOY✔✔
